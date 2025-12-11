@@ -20,7 +20,7 @@ def extract_isbn_by_ocr(image_bytes: bytes) -> str | None:
     base64_image = base64.b64encode(image_bytes).decode("utf-8")
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",  # 安価で高速なモデル
+        model="gpt-4o-mini",
         messages=[
             {
                 "role": "user",
