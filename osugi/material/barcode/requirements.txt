@@ -1,0 +1,7 @@
+streamlit
+pillow
+opencv-python
+requests
+cv2
+pyzbar
+streamlit-webrtc

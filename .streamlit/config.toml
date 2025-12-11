@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#a67c52"                # 落ち着いた魔法金属色（やや銅寄り）
+backgroundColor = "#e8dfcc"             # 羊皮紙より少し濃いベージュ
+secondaryBackgroundColor = "#d4c4aa"    # サイドバーに古文書感の影
+textColor = "#2c1f1f"                   # より深いインク色（黒に近い茶）
+font = "serif"                          # 魔法書・詩集のような雰囲気

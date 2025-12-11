@@ -1,0 +1,36 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    A12345:
+      email: johndoe@example.com
+      name: JohnDoe
+      password: $2b$12$nc2pj2qc4isNrEgNnqbWNe60UvXLneh163TKOlrPF0nb3/njf1kxu
+    TKHR:
+      email: tsuka-chan@example.com
+      name: つかちゃん
+      password: $2b$12$QTHEm/o5cIzsDPQl7.sI4eqA.UtKbrf8OVEKydYPTGkjnxFaQDqFK
+    a.masaharu:
+      email: a.masaharu0712@gmail.com
+      name: まさはる
+      password: $2b$12$XzOa/ua2DXOjPGEq0whdquDJaHwPNRvoTqqUhl/q533qN1Rs2qlRW
+    masaharu:
+      email: a.masaharu0712@gmail.com
+      name: まさはる
+      password: $2b$12$ytmkN2ysymEPiEwQAxM3s.g5uGWEtw7zFRWcWe/Y4LgsMpOAvq5la
+    takahiro:
+      email: tkhrs.s.13@gmail.com
+      name: takahiro
+      password: $2b$12$lUTSF/4SP4MQUuFFnrSakeqiYDXzvLOcU5VOg5KAN2NwIjiV59Iti
+    test_user_osugi:
+      email: rupajiro1210@yahoo.co.jp
+      name: おすぎ
+      password: $2b$12$d8BMI3Qo1NYyvA7RCsj5DOlczyJOGZNvmp4HKYaOXuYiYhnuvCAg2
+login:
+  fields:
+    login: ログイン
+    password: パスワード
+    username: ユーザー名
+  title: ログイン
